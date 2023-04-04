@@ -1,0 +1,1 @@
+#define NUPIC_CORE_VERSION ""
